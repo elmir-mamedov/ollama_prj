@@ -1,3 +1,5 @@
 # Product recommendation system
 
-### TODO: add reranking
+### TODO:
+1. use hybrid retrieval
+2. use reranking
